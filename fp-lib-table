@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Yolo-GPS")(type "KiCad")(uri "${KIPRJMOD}/Yolo-GPS.pretty")(options "")(descr ""))
+)
